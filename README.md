@@ -12,7 +12,7 @@ Escreva uma função que dado um número real passado como parâmetro, retorne a
 ## Questão 04
 Implemente uma função que calcule a área da superfície e o volume de uma esfera de raio R. A area da superfície e o volume são dados, respectivamente, por:
 
-A = 4 * p * R^2
+A = 4 * p * R^2<br>
 V = 4/3 * p * R^3
 
 ## Questão 05
